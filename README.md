@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-If you have any questions, feel free to reach out to the project maintainer at [your-email@example.com].
+If you have any questions, feel free to reach out to the project maintainer at [prabalkhangura1@gmail.com].
 """
 
 with open("README.md", "w") as file:
